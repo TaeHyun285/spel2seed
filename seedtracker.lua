@@ -3,10 +3,11 @@ meta.version = "WIP"
 meta.description = "I don't know"
 meta.author = "TaeHyun"
 
+-- set level
 for i = 0, 20, 1 do
-    for j = 2, 3, 1 do 
+    for j = 2, 3, 1 do
         warp(1,j,1)
-        
+
     end
 end
 -- get player position
